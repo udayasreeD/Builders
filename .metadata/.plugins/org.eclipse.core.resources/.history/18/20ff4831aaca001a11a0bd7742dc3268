@@ -1,0 +1,11 @@
+package sAMPLE;
+
+public class Sample {
+	publicvoid  method() {
+		 int x=1;
+		System.out.println(x);
+		x++;
+	}
+Sample s= new Sample();
+s.method();
+}

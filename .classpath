@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/commons-codec-1.14-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/commons-codec-1.14-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/commons-codec-1.14-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/commons-codec-1.14-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/poi-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/poi-ooxml-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/poi-ooxml-schemas-3.11 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/poi-ooxml-schemas-3.11-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Udaya/Softwares/Selenium_Software/phontom/phantomjsdriver-1.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
